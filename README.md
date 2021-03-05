@@ -12,6 +12,7 @@ Easy money is made from forking a project and rug-pulling on investors, this has
 * Ownership change
 * Fund movements
 * Crowd sourcing
+* Price changes
 * Whistle blowers
 
 ## Purpose
@@ -19,3 +20,8 @@ Easy money is made from forking a project and rug-pulling on investors, this has
 * Providing real-time secured masks for contracts. 
     * ``User -> Mask -> Contract``
 * Creating a dataset containing DeFi projects for AI techniques.
+
+## Mask types
+
+* Partially insured premium vault
+* Uninsured premium vault
