@@ -33,3 +33,9 @@ With insurance additional incentives for secure contracts and accurate audits ar
 ## Community
 
 * [Discord](https://discord.gg/7adhGPzMu4) 
+## Prerequisites
+
+
+```shell
+pip install -r requirements.txt
+```
