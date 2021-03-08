@@ -2,5 +2,6 @@
     "resolveJsonModule": true,
     "esModuleInterop": true,
     "WEB3INTERFACE": "https://bsc-dataseed.binance.org/",
-    "APIKEY": null
+    "APIKEY": null,
+    "DEBUG": false
 }
