@@ -3,6 +3,14 @@ from Crypto import Random
 import base64
 import os
 import sys
+import json
+
+#import option debug from config 
+with open('config.json','r') as x:
+    config = json.load(x)
+debug        = config["DEBUG"]
+
+
 
 def obfuscate(txt : str):
     """ 
